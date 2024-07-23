@@ -1,5 +1,5 @@
 
-<h1>Hello there!<img align="center" src="./files/phaserdude.gif" width="80"></h1>
+<h1>Hello there <img align="center" src="./files/phaserdude.gif" width="80"></h1>
 
 <img align="right" src="./files/javascript-3d.gif" width="200">
 
