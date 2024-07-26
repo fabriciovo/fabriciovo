@@ -1,7 +1,7 @@
 
 <h1>Hello there <img align="center" src="./files/phaserdude.gif" width="80"></h1>
 
-<img align="right" src="./files/javascript-3d.gif" width="200">
+<img align="right" src="./files/javascript-3d.gif" width="20%">
 
 Experienced Front End Developer with 9 years of expertise in creating dynamic, high-performance web applications. Specialized in JavaScript frameworks, particularly NextJS and AlpineJS. Skilled in building responsive, user-friendly interfaces and optimizing web performance. Experienced in creating projects from scratch and building robust architectures as a Software Engineer. Also proficient in backend development. Focused on delivering solutions that are aligned with client expectations. 
 
